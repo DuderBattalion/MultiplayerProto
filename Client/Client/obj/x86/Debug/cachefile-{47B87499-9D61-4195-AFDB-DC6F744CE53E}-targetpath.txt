@@ -1,0 +1,2 @@
+Content\Textures\SpriteSheet.xnb
+Content\Courier New.xnb

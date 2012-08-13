@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerProto", "MultiplayerProto\MultiplayerProto\MultiplayerProto.csproj", "{509221DF-59DC-4E63-B564-923F9177659A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MultiplayerProtoContent", "MultiplayerProto\MultiplayerProtoContent\MultiplayerProtoContent.contentproj", "{47B87499-9D61-4195-AFDB-DC6F744CE53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client\Client.csproj", "{07B7ED18-4EE8-412B-AD0E-885E8E1890C0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ClientContent", "Client\ClientContent\ClientContent.contentproj", "{46FCAAC1-4071-4156-BFE0-A4E70F61B9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server\Server.csproj", "{B97CAB6E-AE8E-4A8C-B625-41D698D73B19}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ServerContent", "Server\ServerContent\ServerContent.contentproj", "{B5553650-82F2-41EF-9E0F-71F9BA6DD300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509221DF-59DC-4E63-B564-923F9177659A}.Debug|x86.ActiveCfg = Debug|x86
+		{509221DF-59DC-4E63-B564-923F9177659A}.Debug|x86.Build.0 = Debug|x86
+		{509221DF-59DC-4E63-B564-923F9177659A}.Release|x86.ActiveCfg = Release|x86
+		{509221DF-59DC-4E63-B564-923F9177659A}.Release|x86.Build.0 = Release|x86
+		{47B87499-9D61-4195-AFDB-DC6F744CE53E}.Debug|x86.ActiveCfg = Debug|x86
+		{47B87499-9D61-4195-AFDB-DC6F744CE53E}.Release|x86.ActiveCfg = Release|x86
+		{07B7ED18-4EE8-412B-AD0E-885E8E1890C0}.Debug|x86.ActiveCfg = Debug|x86
+		{07B7ED18-4EE8-412B-AD0E-885E8E1890C0}.Debug|x86.Build.0 = Debug|x86
+		{07B7ED18-4EE8-412B-AD0E-885E8E1890C0}.Release|x86.ActiveCfg = Release|x86
+		{07B7ED18-4EE8-412B-AD0E-885E8E1890C0}.Release|x86.Build.0 = Release|x86
+		{46FCAAC1-4071-4156-BFE0-A4E70F61B9A6}.Debug|x86.ActiveCfg = Debug|x86
+		{46FCAAC1-4071-4156-BFE0-A4E70F61B9A6}.Release|x86.ActiveCfg = Release|x86
+		{B97CAB6E-AE8E-4A8C-B625-41D698D73B19}.Debug|x86.ActiveCfg = Debug|x86
+		{B97CAB6E-AE8E-4A8C-B625-41D698D73B19}.Debug|x86.Build.0 = Debug|x86
+		{B97CAB6E-AE8E-4A8C-B625-41D698D73B19}.Release|x86.ActiveCfg = Release|x86
+		{B97CAB6E-AE8E-4A8C-B625-41D698D73B19}.Release|x86.Build.0 = Release|x86
+		{B5553650-82F2-41EF-9E0F-71F9BA6DD300}.Debug|x86.ActiveCfg = Debug|x86
+		{B5553650-82F2-41EF-9E0F-71F9BA6DD300}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

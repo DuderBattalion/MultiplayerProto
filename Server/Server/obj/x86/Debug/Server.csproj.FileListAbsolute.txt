@@ -1,0 +1,11 @@
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\Server.exe
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\Server.pdb
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\MultiplayerProto.dll
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\Lidgren.Network.dll
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\MultiplayerProto.pdb
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\obj\x86\Debug\Server.exe
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\obj\x86\Debug\Server.pdb
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\Anurag\documents\visual studio 2010\Projects\MultiplayerProto\Server\Server\bin\x86\Debug\Content\Courier New.xnb

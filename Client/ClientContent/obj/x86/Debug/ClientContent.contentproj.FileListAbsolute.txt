@@ -1,0 +1,1 @@
+c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Client\ClientContent\obj\x86\Debug\ResolveAssemblyReference.cache

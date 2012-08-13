@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{46FCAAC1-4071-4156-BFE0-A4E70F61B9A6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Client\ClientContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Client\Client\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Client\Client\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\anurag\documents\visual studio 2010\Projects\MultiplayerProto\Client\Client\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-17T12:58:57.3128167-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
